@@ -13,8 +13,8 @@
 
 複製本體 CSS，貼到 `自訂佈景` -> `自訂佈景風格` 欄位
 
-[本體 CSS](https://github.com/akira02/Tokyono-Sora/blob/main/TokynoSora.css) </br>
-[附加自訂 CSS](https://github.com/akira02/Tokyono-Sora/blob/main/custom.css) </br>
+[本體 CSS](https://github.com/blusewill/Tokyono-Sora/blob/main/TokynoSora.css) </br>
+[附加自訂 CSS](https://github.com/blusewill/Tokyono-Sora/blob/main/custom.css) </br>
 </br>
 
 備註：Firefox 70 以上也支援背景模糊功能，但需要額外自行啟用：
