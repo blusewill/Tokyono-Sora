@@ -4,6 +4,7 @@ Sources
 
 [loading.gif by natalivol4ica](https://www.deviantart.com/natalivol4ica/art/Wolf-run-cycle-animation-Beta-V2-0-1-573081158)
 
+Font : [Nerd Font Web Fonts](https://github.com/mshaugh/nerdfont-webfonts)
 
 ---
 

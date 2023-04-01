@@ -540,21 +540,16 @@ body {
   width: auto !important;
 }
 @font-face {
-  font-family: nixie;
-  src: url("https://chiaki.uk/assets/AkiNixieNumber-Regular.woff2")
+  font-family: nerdfont-webfonts;
+  src: url("https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira%20Code%20Regular%20Nerd%20Font%20Complete.woff2")
       format("woff2"),
-    url("https://chiaki.uk/assets/AkiNixieNumber-Regular.woff") format("woff");
+    url("https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira%20Code%20Regular%20Nerd%20Font%20Complete.ttf") format("truetype");
 }
-@font-face {
-  font-family: nixie2;
-  src: url("https://chiaki.uk/assets/AkiNixieNumber-karma.woff2")
-      format("woff2"),
-    url("https://chiaki.uk/assets/AkiNixieNumber-karma.woff") format("woff");
-}
+
 .karma_hover {
   display: flex;
   margin: 0;
-  left: 7px;
+  left: 6px;
   text-indent: -300px;
   pointer-events: none;
 }
@@ -568,15 +563,15 @@ body {
   position: relative;
   display: inline-block;
   text-align: right;
-  font-family: nixie;
+  font-family: nerdfont-webfonts;
   font-size: 35px;
   width: 3.5em;
-  top: -24px;
+  top: -23px;
   left: -5px;
   padding: 0.2em;
   padding-bottom: 0.1em;
-  color: #ff9b28;
-  text-shadow: 0px 0px 6px rgba(255, 65, 0, 0.7), 0px 0px 20px #ff8000,
+  color: #00c636;
+  text-shadow: 0px 0px 6px rgba(0, 255, 149, 0.7), 0px 0px 20px #ff8000,
     0px 0px 10px rgb(118, 18, 3) !important;
   transition: transform 1s, font-size 1s;
 }
