@@ -1,7 +1,7 @@
 /* 
    Tokyono-Sora v1.1.1
-   Design by Chiaki.C https://plurk.com/akira02
-   https://github.com/akira02/Tokyono-Sora/
+   Design by Chiaki.C https://plurk.com/blusewill
+   https://github.com/blusewill/Tokyono-Sora/
 */
 
 /*   整體控制   */
@@ -48,7 +48,7 @@ body {
 
 /*載入動畫*/
 .loading > img {
-  background: url(https://raw.githubusercontent.com/akira02/Tokyono-Sora/main/loading.svg)
+  background: url(https://raw.githubusercontent.com/blusewill/Tokyono-Sora/main/loading.gif)
     no-repeat;
   width: 90px;
   height: 90px;
@@ -57,7 +57,7 @@ body {
   margin-top: 17px;
 }
 .loading-div {
-  background: url(https://raw.githubusercontent.com/akira02/Tokyono-Sora/main/loading.svg)
+  background: url(https://raw.githubusercontent.com/blusewill/Tokyono-Sora/main/loading.gif)
     no-repeat;
   background-size: 120px;
   width: 120px;
@@ -74,7 +74,7 @@ body {
   content: ' ';
   display:block;
   position: relative;
-  background: url(https://raw.githubusercontent.com/akira02/Tokyono-Sora/main/loading.svg)
+  background: url(https://raw.githubusercontent.com/blusewill/Tokyono-Sora/main/loading.gif)
     no-repeat;
   background-size: 90px;
   width: 90px;
