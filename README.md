@@ -1,3 +1,12 @@
+Customized Version of Tokyono-Sora by blusewill
+
+Sources
+
+[loading.gif by natalivol4ica](https://www.deviantart.com/natalivol4ica/art/Wolf-run-cycle-animation-Beta-V2-0-1-573081158)
+
+
+---
+
 # Tokyono Sora 東京乃空 - Plurk UI
 
 ### Redesigned Plurk UI </br>
