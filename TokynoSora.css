@@ -593,3 +593,7 @@ body {
 #footer .copyright {
   display: none;
 }
+
+/* import custom.css file */
+
+@import url(https://raw.githubusercontent.com/blusewill/Tokyono-Sora/main/custom.css)
