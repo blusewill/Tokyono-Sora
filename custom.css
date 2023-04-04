@@ -53,7 +53,7 @@
 
 /* 以上傳圖片覆蓋掉噗浪原本的背景圖 */
 ._lch_ {
-  background-image: url(https://i.imgur.com/j9MQTly.jpg) !important;
+  background-image: url(https://raw.githubusercontent.com/blusewill/Tokyono-Sora/main/og.jpg) !important;
   background-position: center !important;
   background-size: cover !important;
   background-attachment: fixed !important;
@@ -66,7 +66,7 @@
 #form_holder,
 ._lch_~.pop-window .pop-window-content,
 ._lch_~.pop-window .pop-window-view iframe  {
-  background-image: url(https://i.imgur.com/Cm5toBs.jpg) !important;
+  background-image: url(https://raw.githubusercontent.com/blusewill/Tokyono-Sora/main/blur.jpg) !important;
   background-position: center !important;
   background-size: cover !important;
   background-attachment: fixed !important;
